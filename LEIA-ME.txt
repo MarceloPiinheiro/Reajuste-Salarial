@@ -1,0 +1,9 @@
+Lógica de Folha — Reajuste em lote
+
+Extraia o ZIP e abra index.html no navegador. Mantenha styles.css e app.js na mesma pasta.
+
+Use o exemplo fictício para testar. Cole duas colunas (nome e salário) do Excel, ou use nome; salário por linha, sem cabeçalho.
+
+O cálculo inclui somente o reajuste direto dos salários. Não inclui encargos, retroativos ou regras de CCT.
+
+Os dados não são enviados nem salvos. Recarregar apaga os dados. A cópia da tabela depende da permissão do navegador; o CSV funciona como alternativa.
