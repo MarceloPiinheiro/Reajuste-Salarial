@@ -1,6 +1,6 @@
 # Lógica de Folha
 
-Ferramenta de reajuste salarial em lote criada por **Marcelo Pinheiro**, a partir da experiência na rotina de Departamento Pessoal.
+Ferramenta de reajuste salarial em lote criada por Marcelo Pinheiro, a partir da experiência na rotina de Departamento Pessoal.
 
 O projeto permite transformar uma lista de funcionários e salários em uma tabela de reajustes, facilitando a conferência dos valores e do impacto mensal.
 
