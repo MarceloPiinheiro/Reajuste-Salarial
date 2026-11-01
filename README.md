@@ -65,4 +65,4 @@ O cálculo acontece no navegador. Os nomes e salários não são enviados a um s
 
 **Marcelo Pinheiro** · [GitHub](https://github.com/MarceloPiinheiro)
 
-Projeto idealizado a partir da experiência em Departamento Pessoal e desenvolvido com apoio de inteligência artificial na implementação.
+Projeto idealizado a partir da experiência em Departamento Pessoal.
